@@ -1,0 +1,1 @@
+# Text-detectiona-and-localization-with-Tesseract-ORC
